@@ -4,36 +4,36 @@ layout: homepage
 
 ## About Me
 
-I am a Junior undergraduate student majoring in **Civil and Environmental Engineering** at **Yonsei University**. 
-Previously, I studied Information and Communication Engineering at Hankuk University of Foreign Studies (HUFS) (2024).
+I am a Junior undergraduate student majoring in [**Civil and Environmental Engineering**](hhttps://civil.yonsei.ac.kr/civil/index.do) at **Yonsei University**, Seoul. 
 
-My research focuses on the intersection of AI and spatial data, specifically in **AIGC detection**, **Spiking Neural Networks (SNN)**, and **3D Digital Twins**. I am passionate about applying deep learning techniques to solve real-world problems in digital media and environmental monitoring.
+Prior to my current studies, I completed coursework in **Information and Communication Engineering** at **Hankuk University of Foreign Studies (HUFS)** (completed in 2024).
+
+My unique background allows me to bridge the gap between traditional civil engineering and modern IT technologies. I am passionate about applying **Computer Vision** and **AI solutions** to solve complex challenges in construction sites, focusing on safety automation and digital transformation.
 
 ## Research Interests
 
-- **AIGC Detection:** Developing robust detection models for real-world datasets (e.g., TikTok, YouTube Shorts), focusing on generalization across diverse AI-generated content types and social media platforms.
-- **Spiking Neural Networks:** Investigating model compression and efficiency optimization to bridge the performance gap between spiking and artificial neural networks (SNNs vs. ANNs) while maintaining computational efficiency.
-- **3D Digital Twin:** Creating comprehensive digital replicas by integrating UAV technology and remote sensing data for climate research, environmental monitoring, and atmospheric analysis.
-
-## Work Experience
-
-- **[Jul. 2024 - Present]** **Undergraduate Researcher**, [Name of Lab/Company]
-  - *(Please fill in the details of your role here)*
+- **Smart Construction & Safety Management:** AI-driven safety monitoring, automated risk assessment, and regulatory compliance checking (REG) to mitigate excessive workload in safety management.
+- **3D Computer Vision in Civil Engineering:** Scan-to-BIM technologies, point cloud processing, and automated floor plan generation using 3D scanning.
+- **3D Digital Twin & Remote Sensing:** Creating comprehensive digital replicas by integrating UAV technology and remote sensing data for climate research applications, environmental monitoring, and atmospheric data analysis.
 
 ## Projects
 
-- **[Dec. 2025 - Present] Workon: Construction Site 3D Scan & AI Reporting**
-  - Developing an integrated service that automates construction progress reporting. The system utilizes 3D scanning technology to capture site data and employs AI to analyze and generate comprehensive progress reports.
+**Workon: AI-Based Construction Progress Monitoring Service**
+- **Period:** Dec. 2025 - Present
+- **Role:** Core Developer / Researcher
+- **Description:** Developing an end-to-end solution that automates construction progress reporting. The system utilizes **3D scanning** to capture site data and applies **AI algorithms** to calculate real-time completion rates, streamlining the traditional manual inspection process.
 
-- **[Mar. 2025 - Jun. 2025] Mars Relocation Support iOS Application**
-  - Designed and developed an iOS application to support the relocation of high-intelligence AI robots to Mars in a post-war scenario. The app streamlines the migration process, offering an intuitive interface for logistics and user management.
+**Mars Relocation Support Platform (iOS Application)**
+- **Period:** Mar. 2025 - Jun. 2025
+- **Role:** iOS Developer
+- **Description:** Designed a futuristic mobile application concept for the relocation of high-intelligence AI agents to Mars.
+  - Developed an intuitive user interface to streamline the inter-planetary migration process.
+  - Implemented features for logistical tracking and user management in a sci-fi context where human-AI coexistence is no longer viable.
 
 ## News
 
-- **[Dec. 2025]** Successfully completed the Fall 2025 semester.
-- **[2025]** One paper on **Spiking Neural Networks** was selected as a **Best Paper** at **IEIE 2025**.
-- **[2025]** Submitted papers regarding **AIGC Detection** and **SNN Optimization** to arXiv.
-- **[2024]** Published a paper on **3D Digital Twin & UAVs** at **IEIE 2024**.
+- **[Dec. 17, 2025]** Successfully completed the Fall semester! 
+- **[Dec. 2025]** Started a new project, "Workon," focusing on 3D scan-based construction management.
 
 {% include_relative _includes/publications.md %}
 
