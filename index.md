@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Junior undergraduate student majoring in [**Civil and Environmental Engineering**](hhttps://civil.yonsei.ac.kr/civil/index.do) at **Yonsei University**, Seoul. 
+I am a Junior undergraduate student majoring in [**Civil and Environmental Engineering**](https://civil.yonsei.ac.kr/civil/index.do) at **Yonsei University**, Seoul. 
 
 Prior to my current studies, I completed coursework in **Information and Communication Engineering** at **Hankuk University of Foreign Studies (HUFS)** (completed in 2024).
 
