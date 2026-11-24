@@ -16,7 +16,7 @@ I build and race small autonomous vehicles in the Yonsei autonomous-driving club
 
 ## Awards
 
-- **Bronze Prize, Student Technology Category**, 4th MAGP (Minicar Autonomous Grand Prix), RoboRacer class, Gifu University, Japan, Nov. 2026. Team leader; reached the final 8 (joint 5th).
+- **Bronze Prize, Student Technology Category**, 4th MAGP (Minicar Autonomous Grand Prix), RoboRacer class, Gifu University, Japan, Nov. 2026. Team leader; joint 5th place in the finals.
 - **Encouragement Prize (KAIA President's Award, KRW 500,000)**, 2026 Crowdsourced Data Hackathon (hosted by the Ministry of Land, Infrastructure and Transport and KAIA), Nov. 2026. Team leader.
 
 ## Projects
