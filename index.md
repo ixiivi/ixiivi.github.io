@@ -16,13 +16,14 @@ I build and race small autonomous vehicles in the Yonsei autonomous-driving club
 
 ## Awards
 
-- **Student Technology Encouragement Award (学生技術奨励賞)**, 4th MAGP (Minicar Autonomous Grand Prix), RoboRacer class, Gifu University, Japan, Nov. 2026. Team representative; reached the final 8 (joint 5th).
+- **Bronze Prize, Student Technology Category**, 4th MAGP (Minicar Autonomous Grand Prix), RoboRacer class, Gifu University, Japan, Nov. 2026. Team leader; reached the final 8 (joint 5th).
+- **Encouragement Prize (KAIA President's Award, KRW 500,000)**, 2026 Crowdsourced Data Hackathon (hosted by the Ministry of Land, Infrastructure and Transport and KAIA), Nov. 2026. Team leader.
 
 ## Projects
 
 **MAGP RoboRacer: 1/10-Scale Autonomous Racing Car**
 - **Period:** Sep. 2026 - Nov. 2026
-- **Role:** Team Representative, lead for vehicle hardware, software and algorithms
+- **Role:** Team Leader, lead for vehicle hardware, software and algorithms
 - Ported a ROS 2 driving stack onto a Traxxas 1/10 chassis with VESC 6, 2D LiDAR, IMU and wheel encoders, running fully onboard on an NVIDIA Jetson Orin Nano Super.
 - LiDAR scan-matching particle filter (AMCL) fused with odometry for localization; Pure Pursuit waypoint following with per-surface parameter sets.
 - Re-tuned the VESC FOC speed loop and braking logic; designed an SSH-based, server-driven remote control panel with E-stop and dead-man switch.
@@ -33,15 +34,10 @@ I build and race small autonomous vehicles in the Yonsei autonomous-driving club
 - **Role:** Team Leader (6 members)
 - Building and wiring a 1/10 F1Tenth platform, setting up the Jetson software environment, and running the team's schedule, task board and development log.
 
-**Crowdsourced Data Hackathon 2026: Drone-Imagery Change Detection**
+**2026 Crowdsourced Data Hackathon: Drone-Imagery Change Detection** (Encouragement Prize)
 - **Period:** Nov. 2026
-- **Role:** Team YAXXX (2 members)
+- **Role:** Team Leader, Team YAXXX (2 members)
 - Proposed and demoed a pipeline that detects new or changed buildings and roads from crowdsourced drone imagery against digital maps, and reconstructs suspicious buildings as LoD2 3D models to estimate height and floors for illegal-structure inspection in mountain and state-owned land.
-
-**Workon: AI-Based Construction Progress Monitoring Service**
-- **Period:** Dec. 2025 - Present
-- **Role:** Core Developer / Researcher
-- Automating construction progress reporting by capturing site data with **3D scanning** and computing completion rates with **AI algorithms**.
 
 **Mars Relocation Support Platform (iOS Application)**
 - **Period:** Mar. 2025 - Jun. 2025
@@ -61,7 +57,6 @@ I build and race small autonomous vehicles in the Yonsei autonomous-driving club
 
 ## News
 
-- **[Nov. 2026]** Won the Student Technology Encouragement Award at the 4th MAGP RoboRacer class in Gifu, Japan.
-- **[Nov. 2026]** Took part in the Crowdsourced Data Hackathon 2026 at Yonsei University.
+- **[Nov. 2026]** Won the Bronze Prize (Student Technology Category) at the 4th MAGP RoboRacer class in Gifu, Japan.
+- **[Nov. 2026]** Won the Encouragement Prize at the 2026 Crowdsourced Data Hackathon.
 - **[2026]** Leading Module 2 of the 3rd YAX F1Tenth cohort; preparing the camera lane-detection task for KRoC 2027.
-- **[Dec. 2025]** Started "Workon," a 3D scan-based construction progress monitoring project.
